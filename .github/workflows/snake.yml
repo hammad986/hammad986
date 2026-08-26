@@ -9,10 +9,14 @@
 # Where it must live:
 #   .github/workflows/snake.yml  (inside the `hammad986` profile repo)
 #
+<<<<<<< HEAD
 # Status: DEPLOYED & VERIFIED WORKING on hammad986/hammad986
 #   - output branch contains github-contribution-grid-snake-dark.svg
 #
 # After each successful run, README embeds:
+=======
+# After the first successful run, embed in README.md:
+>>>>>>> dd64a65a01cb75954172ee0c9a11bfe4f92beb81
 #   https://raw.githubusercontent.com/hammad986/hammad986/output/github-contribution-grid-snake-dark.svg
 #
 # Uses Platane/snk@v3 (current stable, actively maintained).
