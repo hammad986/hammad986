@@ -1,0 +1,293 @@
+<!-- ============================================================
+     MUHAMMED HAMMAD S — GitHub Profile README
+     Repo must be named: hammad986  (public, README.md at root)
+     Theme: dark + subtle purple/blue neon
+     ============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" alt=""/>
+
+# MUHAMMED HAMMAD S
+
+<a href="https://github.com/hammad986">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=620&height=50&repeat=true&lines=AI%2FML+Engineer;Generative+AI+Builder;RAG+Engineer;AI+Systems+Developer;Agentic+AI+Explorer;Autonomous+AI+Systems" alt="Typing animation: AI/ML Engineer · Generative AI Builder · RAG Engineer · AI Systems Developer · Agentic AI Explorer · Autonomous AI Systems"/>
+</a>
+
+### **AI/ML Engineer building GenAI, RAG, and autonomous AI systems.**
+
+Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>agentic systems, developer tooling, and AI infrastructure.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hammad.dpdns.org-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://hammad.dpdns.org)
+[![Aetherion Labs](https://img.shields.io/badge/Aetherion_Labs-aetherionlabs.qzz.io-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiLz48L3N2Zz4=&logoColor=white)](https://aetherionlabs.qzz.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed_Hammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-hammad-42659726a/)
+[![GitHub](https://img.shields.io/badge/GitHub-hammad986-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammad986)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+> I'm **Muhammed Hammad S** (`@hammad986`) — a B.Tech student in **Computer Science and Business Systems** at Kingston Engineering College, focused on **Artificial Intelligence and Machine Learning**.
+>
+> My interests span **Generative AI, Retrieval-Augmented Generation (RAG), agentic and autonomous AI systems, AI engineering, and AI infrastructure**. I learn by building — shipping real-world tools like video intelligence systems, RAG pipelines, LLM-powered CLIs, and multi-agent automation platforms rather than stopping at theory.
+>
+> Currently moving deeper into **advanced AI / Generative AI engineering**.
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔭 Currently exploring & learning
+
+- **Generative AI** & **LLM-based applications**
+- **Agentic AI** & autonomous workflows
+- **Autonomous AI Systems**
+- **Retrieval-Augmented Generation (RAG)**
+- **AI Infrastructure** — model/inference infra & AI tooling
+- **AI Operating Systems / AI OS concepts**
+- **Synthetic Data**
+- Advanced **AI Engineering**
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ What I build
+
+- **Machine Learning** & **NLP**
+- **Computer Vision** & **Speech AI**
+- **Generative AI** applications
+- **RAG pipelines** with vector search (FAISS)
+- **Agentic AI** & multi-agent automation
+- **AI developer tools** & CLI products
+- **Local-first AI applications**
+- **AI infrastructure**
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 💼 Open To
+
+**Currently working on:** AI/ML · Generative AI · RAG · Agentic AI · Autonomous AI systems · AI Engineering · AI infrastructure
+
+**Open to:** AI/ML internships · Generative AI opportunities · AI Engineering opportunities
+
+📧 Reach me: [mdhammad2906@gmail.com](mailto:mdhammad2906@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**AI / ML / Data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Generative AI / AI Systems**
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-A855F7?style=flat-square)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-embeddings_·_vector_search_·_prompting-A855F7?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-vector_search-6366F1?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-agentic_workflows_·_autonomous_systems-8B5CF6?style=flat-square)
+![Whisper](https://img.shields.io/badge/Faster--Whisper-speech_to_text-10B981?style=flat-square)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**LLM Ecosystem** *(worked with / explored)*
+
+`Ollama` · `OpenRouter` · `LM Studio` · `Faster-Whisper` · `Gemini` · `Claude` · `DeepSeek` · `Qwen`
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🎬 [**Advanced Video QA System**](https://github.com/hammad986/advanced-Video-QA-System)<br/><sub>[Repo ↗](https://github.com/hammad986/advanced-Video-QA-System)</sub> | Local-first AI Video Intelligence Workbench — transcript generation, semantic search, evidence-grounded Q&A, multi-video comparison, and FAISS retrieval for research workflows. | Python · Whisper · FAISS · Semantic Search |
+| 🎙️ [**Video Transcriber**](https://github.com/hammad986/video-transcriber)<br/><sub>[Repo ↗](https://github.com/hammad986/video-transcriber)</sub> | Converts video / YouTube audio into exact text using Faster-Whisper — accurate speech-to-text extraction without AI modifications. | Python · Faster-Whisper · Streamlit |
+| 📈 [**Binance Futures Testnet Trading Bot**](https://github.com/hammad986/binance-futures-testnet-trading-bot)<br/><sub>[Repo ↗](https://github.com/hammad986/binance-futures-testnet-trading-bot)</sub> | Modular Python CLI for placing MARKET and LIMIT orders on Binance USDT-M Futures Testnet — clean architecture, robust validation, structured logging. | Python · REST API · CLI |
+| 🗂️ [**Dcobot-CLI**](https://github.com/hammad986/Dcobot-CLI)<br/><sub>[Repo ↗](https://github.com/hammad986/Dcobot-CLI)</sub> | RAG-driven CLI automating document ingestion and indexing — semantic chunking, vector embeddings, and ultra-fast similarity search on a FAISS database. | Python · RAG · Embeddings · FAISS |
+| 🤖 [**Terminal AI Assistant**](https://github.com/hammad986/terminal-ai-assistant-cli)<br/><sub>[Repo ↗](https://github.com/hammad986/terminal-ai-assistant-cli)</sub> | Production-ready AI terminal assistant with JWT authentication, crisis detection, SQLite conversation storage, JSON incident mirroring, exports, and backups. | Python · JWT · SQLite |
+| 🖼️ [**Image Toolkit Pro**](https://github.com/hammad986/Image-Toolkit-Pro)<br/><sub>[Repo ↗](https://github.com/hammad986/Image-Toolkit-Pro)</sub> | Desktop image processing and computer vision toolkit — editing, detection, webcam analytics, batch processing, and reporting. | Python · OpenCV · Tkinter |
+
+---
+
+## 📚 Complete Repository Index
+
+*All public repositories of [@hammad986](https://github.com/hammad986), grouped by domain.*
+
+<details open>
+<summary><b>🧬 AI / Machine Learning</b></summary>
+<br/>
+
+- [AI-Based-Brain-Tumor-Detection-System-Using-MRI-Image-Classification](https://github.com/hammad986/AI-Based-Brain-Tumor-Detection-System-Using-MRI-Image-Classification) — MRI image classification for brain tumor detection.
+- [Guarding-transactions-with-AI-powered-credit-card-fraud-detection-and-prevention](https://github.com/hammad986/Guarding-transactions-with-AI-powered-credit-card-fraud-detection-and-prevention) — AI-powered credit card fraud detection and prevention.
+
+</details>
+
+<details open>
+<summary><b>✨ Generative AI / RAG / Agentic Systems</b></summary>
+<br/>
+
+- [video-qa-RAG](https://github.com/hammad986/video-qa-RAG) — Evidence-based video question answering using RAG.
+- [Kingston_Engineering_college](https://github.com/hammad986/Kingston_Engineering_college) — End-to-end college website with an advanced RAG chatbot.
+- [Sentinel-AI](https://github.com/hammad986/Sentinel-AI) *(template)* — FastAPI + SQLModel + OpenRouter AI assistant with JWT auth, conversational UI, and parallel crisis detection.
+- [Smart-AI-Docs](https://github.com/hammad986/Smart-AI-Docs) — Document intelligence platform for extracting, analyzing, and exporting structured data from PDFs/images with multi-provider fallback.
+- [AI-Proposal-Writer](https://github.com/hammad986/AI-Proposal-Writer) — Next.js proposal generator with Gemini-powered content generation, inline editing, PDF export ([live demo](https://ai-proposal-writer-aetherion-labs.netlify.app/proposals)).
+- [Autonomous-Marketing-Agent](https://github.com/hammad986/Autonomous-Marketing-Agent) — Modular multi-agent marketing automation powered by LLMs, Apify, and Python.
+- [openhand_ai](https://github.com/hammad986/openhand_ai) — Automation agentic AI that turns user input into the desired output.
+- [Aetherion-AI](https://github.com/hammad986/Aetherion-AI) — Advanced autonomous AI system concept/build.
+
+</details>
+
+<details>
+<summary><b>📊 Data Science / Analytics</b></summary>
+<br/>
+
+- [DeepCSAT-E-commerce-Customer-Satisfaction-Score-Prediction](https://github.com/hammad986/DeepCSAT-E-commerce-Customer-Satisfaction-Score-Prediction) — Predicts CSAT scores from e-commerce support data as an early-warning churn system.
+- [Customer-Segmentation-and-Product-Recommendations-in-E-Commerce](https://github.com/hammad986/Customer-Segmentation-and-Product-Recommendations-in-E-Commerce) — Segmentation and recommendations from online retail transactions.
+- [Flipkart-Customer-Support-Analysis](https://github.com/hammad986/Flipkart-Customer-Support-Analysis) — Customer support data analysis.
+
+</details>
+
+<details>
+<summary><b>🧰 Developer Tools / CLI</b></summary>
+<br/>
+
+- [Password-manager](https://github.com/hammad986/Password-manager) — Password manager utility in Python.
+- [OpenCV-MiniLab](https://github.com/hammad986/OpenCV-MiniLab) — Python/OpenCV toolkit for basic image processing, drawing, face detection, and video capture.
+
+</details>
+
+<details>
+<summary><b>🌐 Web Development & Applications</b></summary>
+<br/>
+
+- [aetherion-labs](https://github.com/hammad986/aetherion-labs) — Aetherion Labs site: custom AI software, intelligent systems, automation tools, and modern web apps.
+- [Hammad-Portfolio](https://github.com/hammad986/Hammad-Portfolio) — Personal portfolio site.
+- [dealflow-crm](https://github.com/hammad986/dealflow-crm) — Client/deal pipeline CRM with kanban, activity timeline, follow-ups, and revenue analytics — 100% client-side.
+- [invoice-generator-pro](https://github.com/hammad986/invoice-generator-pro) — Smart invoice/quotation generator with live preview and PDF export.
+- [Nexus-AI-Dashboard](https://github.com/hammad986/Nexus-AI-Dashboard) — AI-native operational intelligence platform with real-time analytics and AI copilots.
+- [simple_foundation_website](https://github.com/hammad986/simple_foundation_website) — Foundation website built in TypeScript.
+- [resume-template](https://github.com/hammad986/resume-template) — Resume template for reference.
+- College website iterations: [Kingston-Engineering-College](https://github.com/hammad986/Kingston-Engineering-College) · [KINGSTON-ENG-COLLEGE](https://github.com/hammad986/KINGSTON-ENG-COLLEGE) · [KEC_by_Hammad_2](https://github.com/hammad986/KEC_by_Hammad_2)
+- [Front-End-Website-Development](https://github.com/hammad986/Front-End-Website-Development) — Front-end developed website (PHP).
+
+</details>
+
+<details>
+<summary><b>🎓 Academic / Experimental / Forks</b></summary>
+<br/>
+
+- [Data-Science-Intern-Assignment-Primetrade.ai-](https://github.com/hammad986/Data-Science-Intern-Assignment-Primetrade.ai-) — Data science internship assignment.
+- [skills-introduction-to-github](https://github.com/hammad986/skills-introduction-to-github) — GitHub Skills course exercise repo.
+- [docs](https://github.com/hammad986/docs) *(fork of docker/docs)* — Docker documentation source.
+
+</details>
+
+---
+
+## 🏢 Experience
+
+| Role | Organization |
+|---|---|
+| Machine Learning Intern | Saiket Systems |
+| AI / Data Science Intern | Labmentix |
+| Full Stack Web Developer Intern | CodeBind |
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science and Business Systems**
+Kingston Engineering College
+
+---
+
+## 📜 Certifications & Achievements
+
+- AWS × Deloitte — Forage job simulation
+- Oracle Cloud certifications
+- NISM certification
+- Member — Institution of Engineers
+
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://github.com/hammad986"><img src="https://img.shields.io/badge/GitHub-hammad986-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammed-hammad-42659726a/"><img src="https://img.shields.io/badge/LinkedIn-Muhammed_Hammad_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+&nbsp;
+<a href="https://hammad.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-hammad.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" alt="Personal portfolio website"/></a>
+&nbsp;
+<a href="https://aetherionlabs.qzz.io"><img src="https://img.shields.io/badge/Aetherion_Labs-aetherionlabs.qzz.io-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Aetherion Labs AI project website"/></a>
+&nbsp;
+<a href="mailto:mdhammad2906@gmail.com"><img src="https://img.shields.io/badge/Email-mdhammad2906%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email address"/></a>
+&nbsp;
+<a href="https://www.instagram.com/mud_.hammad/"><img src="https://img.shields.io/badge/Instagram-mud_.hammad-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile"/></a>
+
+</div>
+
+---
+
+## 🎮 Beyond Code
+
+🎮 Gaming — Call of Duty Mobile &nbsp;|&nbsp; ✈️ Travelling & tourism
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hammad986&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&bg_color=0D1117" height="165" alt="Muhammed Hammad S's GitHub statistics: total stars, commits, pull requests, and issues."/>&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad986&layout=compact&hide_border=true&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&bg_color=0D1117&langs_count=8" height="165" alt="Most used programming languages across hammad986's repositories."/>
+
+<img src="https://raw.githubusercontent.com/hammad986/hammad986/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving over hammad986's GitHub contribution grid." width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hammad986&color=A855F7&style=flat-square&label=Profile+Views" alt="Profile view count"/>
+
+**Muhammed Hammad S** (`hammad986`) — *AI/ML Engineer building GenAI, RAG, and autonomous AI systems.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" alt=""/>
+</div>
