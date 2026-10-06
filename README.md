@@ -25,7 +25,7 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hammad.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://hammad.dpdns.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hammad986.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://hammad986.dpdns.org)
 [![Aetherion Labs](https://img.shields.io/badge/Aetherion_Labs-aetherionlabs.qzz.io-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://aetherionlabs.qzz.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed_Hammad_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-hammad-42659726a/)
 [![GitHub](https://img.shields.io/badge/GitHub-hammad986-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammad986)
@@ -263,7 +263,7 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammed-hammad-42659726a/"><img src="https://img.shields.io/badge/LinkedIn-Muhammed_Hammad_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
 &nbsp;
-<a href="https://hammad.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-hammad.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" alt="Personal portfolio website"/></a>
+<a href="https://hammad986.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-hammad986.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" alt="Personal portfolio website"/></a>
 &nbsp;
 <a href="https://aetherionlabs.qzz.io"><img src="https://img.shields.io/badge/Aetherion_Labs-aetherionlabs.qzz.io-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Aetherion Labs AI project website"/></a>
 &nbsp;
