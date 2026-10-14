@@ -27,7 +27,9 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hammad986.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://hammad986.dpdns.org)
 [![Aetherion Labs](https://img.shields.io/badge/Aetherion_Labs-aetherionlabs.qzz.io-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://aetherionlabs.qzz.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed_Hammad_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-hammad-42659726a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hammad986-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad986/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-hammad986-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/hammad986)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hammad986-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hammad986/)
 [![GitHub](https://img.shields.io/badge/GitHub-hammad986-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammad986)
 
 </div>
@@ -261,15 +263,17 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 
 <a href="https://github.com/hammad986"><img src="https://img.shields.io/badge/GitHub-hammad986-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/muhammed-hammad-42659726a/"><img src="https://img.shields.io/badge/LinkedIn-Muhammed_Hammad_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+<a href="https://www.linkedin.com/in/hammad986/"><img src="https://img.shields.io/badge/LinkedIn-hammad986-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+&nbsp;
+<a href="https://huggingface.co/hammad986"><img src="https://img.shields.io/badge/Hugging_Face-hammad986-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/hammad986/"><img src="https://img.shields.io/badge/LeetCode-hammad986-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
 &nbsp;
 <a href="https://hammad986.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-hammad986.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" alt="Personal portfolio website"/></a>
 &nbsp;
 <a href="https://aetherionlabs.qzz.io"><img src="https://img.shields.io/badge/Aetherion_Labs-aetherionlabs.qzz.io-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Aetherion Labs AI project website"/></a>
 &nbsp;
 <a href="mailto:mdhammad2906@gmail.com"><img src="https://img.shields.io/badge/Email-mdhammad2906%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email address"/></a>
-&nbsp;
-<a href="https://www.instagram.com/mud_.hammad/"><img src="https://img.shields.io/badge/Instagram-mud_.hammad-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile"/></a>
 
 </div>
 
