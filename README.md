@@ -270,6 +270,8 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 &nbsp;
 <a rel="me" href="https://leetcode.com/u/hammad986/"><img src="https://img.shields.io/badge/LeetCode-hammad986-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
 &nbsp;
+<a rel="me" href="https://www.kaggle.com/mdhamd"><img src="https://img.shields.io/badge/Kaggle-mdhamd-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile (Muhammed Hammad)"/></a>
+&nbsp;
 <a rel="me" href="https://www.instagram.com/mud_.hammad/"><img src="https://img.shields.io/badge/Instagram-mud_.hammad-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile (@mud_.hammad)"/></a>
 &nbsp;
 <a rel="me" href="https://hammad986.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-hammad986.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" alt="Personal portfolio website"/></a>
