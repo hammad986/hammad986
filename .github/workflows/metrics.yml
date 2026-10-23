@@ -41,9 +41,16 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      HAS_METRICS_TOKEN: ${{ secrets.METRICS_TOKEN != '' }}
     steps:
+      - name: Skip metrics generation when token is not configured
+        if: ${{ env.HAS_METRICS_TOKEN != 'true' }}
+        run: echo "::warning::METRICS_TOKEN is not configured; skipping metrics generation."
+
       # Overall profile statistics card (header/activity/community/repos)
       - name: General metrics
+        if: ${{ env.HAS_METRICS_TOKEN == 'true' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -55,6 +62,7 @@ jobs:
 
       # Top languages card, generated as a separate committed asset
       - name: Languages metrics
+        if: ${{ env.HAS_METRICS_TOKEN == 'true' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
