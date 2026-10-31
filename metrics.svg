@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" fill="none">
+  <defs>
+    <linearGradient id="neon-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="480" height="230" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Header -->
+  <g transform="translate(24, 28)">
+    <circle cx="16" cy="16" r="16" fill="url(#neon-grad)" opacity="0.2"/>
+    <path d="M16 6a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.15-1.11-1.46-1.11-1.46-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.08.63-1.33-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.58 9.58 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.69-4.57 4.93.36.31.68.92.68 1.85v2.75c0 .27.18.58.69.48A10 10 0 0 0 16 6z" fill="#a855f7"/>
+    <text x="44" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#f0f6fc">MUHAMMED HAMMAD S</text>
+    <text x="44" y="29" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#8b949e">@hammad986 &bull; AI/ML &amp; Generative AI Engineer</text>
+  </g>
+
+  <line x1="24" y1="72" x2="456" y2="72" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Metrics Grid -->
+  <g transform="translate(24, 88)">
+    <!-- Stat 1 -->
+    <rect x="0" y="0" width="136" height="52" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="14" y="23" font-family="sans-serif" font-size="11" fill="#8b949e">Public Repos</text>
+    <text x="14" y="43" font-family="sans-serif" font-size="18" font-weight="700" fill="url(#cyan-grad)">40+</text>
+
+    <!-- Stat 2 -->
+    <rect x="148" y="0" width="136" height="52" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="162" y="23" font-family="sans-serif" font-size="11" fill="#8b949e">Core Domain</text>
+    <text x="162" y="43" font-family="sans-serif" font-size="15" font-weight="700" fill="#a855f7">GenAI &amp; RAG</text>
+
+    <!-- Stat 3 -->
+    <rect x="296" y="0" width="136" height="52" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="310" y="23" font-family="sans-serif" font-size="11" fill="#8b949e">Architecture</text>
+    <text x="310" y="43" font-family="sans-serif" font-size="15" font-weight="700" fill="#22d3ee">Agentic AI</text>
+  </g>
+
+  <!-- Focus Tags -->
+  <g transform="translate(24, 156)">
+    <text x="0" y="16" font-family="sans-serif" font-size="11" fill="#8b949e">Engineering Focus:</text>
+    
+    <rect x="110" y="2" width="92" height="22" rx="6" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-width="0.8"/>
+    <text x="156" y="17" font-family="sans-serif" font-size="10.5" font-weight="600" fill="#c084fc" text-anchor="middle">Vector Search</text>
+
+    <rect x="210" y="2" width="102" height="22" rx="6" fill="#22d3ee" fill-opacity="0.15" stroke="#22d3ee" stroke-width="0.8"/>
+    <text x="261" y="17" font-family="sans-serif" font-size="10.5" font-weight="600" fill="#22d3ee" text-anchor="middle">Faster-Whisper</text>
+
+    <rect x="320" y="2" width="112" height="22" rx="6" fill="#6366f1" fill-opacity="0.15" stroke="#6366f1" stroke-width="0.8"/>
+    <text x="376" y="17" font-family="sans-serif" font-size="10.5" font-weight="600" fill="#818cf8" text-anchor="middle">Autonomous LLMs</text>
+  </g>
+
+  <!-- Footer status -->
+  <g transform="translate(24, 204)">
+    <circle cx="5" cy="5" r="4" fill="#10b981"/>
+    <text x="16" y="9" font-family="sans-serif" font-size="11" fill="#7ee787">Available for AI/ML Engineering &amp; Autonomous Systems Roles</text>
+  </g>
+</svg>

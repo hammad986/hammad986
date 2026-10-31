@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="230" viewBox="0 0 380 230" fill="none">
+  <rect width="380" height="230" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Title -->
+  <g transform="translate(20, 26)">
+    <text x="0" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#f0f6fc">Top Languages</text>
+    <text x="0" y="30" font-family="sans-serif" font-size="11" fill="#8b949e">Across Public Repositories</text>
+  </g>
+
+  <!-- Progress Bar Line -->
+  <g transform="translate(20, 70)">
+    <rect x="0" y="0" width="340" height="10" rx="5" fill="#21262d"/>
+    <rect x="0" y="0" width="132" height="10" rx="5" fill="#3572A5"/>
+    <rect x="134" y="0" width="94" height="10" rx="0" fill="#3178c6"/>
+    <rect x="230" y="0" width="85" height="10" rx="0" fill="#DA5B0B"/>
+    <rect x="317" y="0" width="19" height="10" rx="0" fill="#e34c26"/>
+    <rect x="337" y="0" width="3" height="10" rx="2" fill="#4F5D95"/>
+  </g>
+
+  <!-- Legend List -->
+  <g transform="translate(20, 100)">
+    <!-- Python -->
+    <circle cx="6" cy="12" r="5" fill="#3572A5"/>
+    <text x="20" y="16" font-family="sans-serif" font-size="12" font-weight="600" fill="#f0f6fc">Python</text>
+    <text x="140" y="16" font-family="sans-serif" font-size="11.5" fill="#8b949e">38.9%</text>
+
+    <!-- TypeScript -->
+    <circle cx="180" cy="12" r="5" fill="#3178c6"/>
+    <text x="194" y="16" font-family="sans-serif" font-size="12" font-weight="600" fill="#f0f6fc">TypeScript</text>
+    <text x="310" y="16" font-family="sans-serif" font-size="11.5" fill="#8b949e">27.8%</text>
+
+    <!-- Jupyter Notebook -->
+    <circle cx="6" cy="42" r="5" fill="#DA5B0B"/>
+    <text x="20" y="46" font-family="sans-serif" font-size="12" font-weight="600" fill="#f0f6fc">Jupyter Notebook</text>
+    <text x="140" y="46" font-family="sans-serif" font-size="11.5" fill="#8b949e">25.0%</text>
+
+    <!-- HTML / Web -->
+    <circle cx="180" cy="42" r="5" fill="#e34c26"/>
+    <text x="194" y="46" font-family="sans-serif" font-size="12" font-weight="600" fill="#f0f6fc">HTML / CSS</text>
+    <text x="310" y="46" font-family="sans-serif" font-size="11.5" fill="#8b949e">5.6%</text>
+
+    <!-- PHP / Others -->
+    <circle cx="6" cy="72" r="5" fill="#4F5D95"/>
+    <text x="20" y="76" font-family="sans-serif" font-size="12" font-weight="600" fill="#f0f6fc">PHP &amp; Others</text>
+    <text x="140" y="76" font-family="sans-serif" font-size="11.5" fill="#8b949e">2.8%</text>
+  </g>
+</svg>

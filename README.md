@@ -142,7 +142,8 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎬 [**Advanced Video QA System**](https://github.com/hammad986/advanced-Video-QA-System) | Local-first AI Video Intelligence Workbench — transcript generation, semantic search, evidence-grounded Q&A, multi-video comparison, and FAISS retrieval for research workflows. | Python · Whisper · FAISS |
+| 🎬 [**Advanced Video QA System**](https://github.com/hammad986/advanced-Video-QA-System) *(Desktop App)* | Local-first AI Video Intelligence Workbench (Desktop App Version) — Faster-Whisper transcripts, semantic search, evidence-grounded Q&A, and FAISS retrieval for research. | Python · Whisper · FAISS |
+| 🌐 [**Video QA RAG**](https://github.com/hammad986/video-qa-RAG) *(Web / Space)* | Cloud/Web Version of Video QA — lightweight evidence-based video question answering deployed online for quick browser access. | Python · RAG · HuggingFace |
 | 🎙️ [**Video Transcriber**](https://github.com/hammad986/video-transcriber) | Converts video / YouTube audio into exact text using Faster-Whisper — accurate speech-to-text extraction without AI modifications. | Python · Faster-Whisper · Streamlit |
 | 📈 [**Binance Futures Testnet Trading Bot**](https://github.com/hammad986/binance-futures-testnet-trading-bot) | Modular Python CLI for placing MARKET and LIMIT orders on Binance USDT-M Futures Testnet — clean architecture, robust validation, structured logging. | Python · REST API · CLI |
 | 🗂️ [**Dcobot-CLI**](https://github.com/hammad986/Dcobot-CLI) | RAG-driven CLI automating document ingestion and indexing — semantic chunking, vector embeddings, and ultra-fast similarity search on a FAISS database. | Python · RAG · Embeddings · FAISS |
@@ -159,11 +160,13 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 <summary><b>✨ Generative AI / RAG / Agentic Systems</b></summary>
 <br/>
 
-- [video-qa-RAG](https://github.com/hammad986/video-qa-RAG) — Evidence-based video question answering using RAG.
-- [Kingston_Engineering_college](https://github.com/hammad986/Kingston_Engineering_college) — End-to-end college website with an advanced RAG chatbot.
+- [advanced-Video-QA-System](https://github.com/hammad986/advanced-Video-QA-System) — **Desktop App Version**: Advanced local-first Video Intelligence Workbench with Faster-Whisper, semantic search & FAISS.
+- [video-qa-RAG](https://github.com/hammad986/video-qa-RAG) — **Web Version**: Evidence-based video question answering system deployed online on Hugging Face Spaces.
+- [Kingston_Engineering_college](https://github.com/hammad986/Kingston_Engineering_college) — End-to-end college website integrated with an advanced RAG chatbot.
 - [Sentinel-AI](https://github.com/hammad986/Sentinel-AI) *(template)* — FastAPI + SQLModel + OpenRouter AI assistant with JWT auth, conversational UI, and parallel crisis detection.
 - [Smart-AI-Docs](https://github.com/hammad986/Smart-AI-Docs) — Document intelligence platform extracting structured data from PDFs/images with multi-provider fallback.
-- [AI-Proposal-Writer](https://github.com/hammad986/AI-Proposal-Writer) — Next.js proposal generator with Gemini-powered content generation ([live demo](https://ai-proposal-writer-aetherion-labs.netlify.app/proposals)).
+- [AI-Proposal-Writer](https://github.com/hammad986/AI-Proposal-Writer) — **Web App Version**: Next.js proposal generator with Gemini-powered content generation ([live web demo](https://ai-proposal-writer-aetherion-labs.netlify.app/proposals)).
+- [ai-proposal-writer-anna-executa](https://github.com/hammad986/ai-proposal-writer-anna-executa) — **Desktop / Executable App Version**: Standalone desktop deployment of AI Proposal Writer built for the Anna assistant framework.
 - [Autonomous-Marketing-Agent](https://github.com/hammad986/Autonomous-Marketing-Agent) — Modular multi-agent marketing automation powered by LLMs, Apify, and Python.
 - [openhand_ai](https://github.com/hammad986/openhand_ai) — Automation agentic AI that turns user input into the desired output.
 - [Aetherion-AI](https://github.com/hammad986/Aetherion-AI) — Advanced autonomous AI system concept/build.
@@ -201,7 +204,7 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 - [Nexus-AI-Dashboard](https://github.com/hammad986/Nexus-AI-Dashboard) — AI-native operational intelligence platform with real-time analytics and AI copilots.
 - [simple_foundation_website](https://github.com/hammad986/simple_foundation_website) — Foundation website built in TypeScript.
 - [resume-template](https://github.com/hammad986/resume-template) — Resume template for reference.
-- College website iterations: [Kingston-Engineering-College](https://github.com/hammad986/Kingston-Engineering-College) · [KINGSTON-ENG-COLLEGE](https://github.com/hammad986/KINGSTON-ENG-COLLEGE) · [KEC_by_Hammad_2](https://github.com/hammad986/KEC_by_Hammad_2)
+- [Kingston_Engineering_college](https://github.com/hammad986/Kingston_Engineering_college) — Comprehensive college portal featuring an advanced RAG chatbot and responsive UI.
 - [Front-End-Website-Development](https://github.com/hammad986/Front-End-Website-Development) — Front-end developed website (PHP).
 
 </details>
@@ -218,8 +221,7 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 <summary><b>🎓 Academic / Experimental</b></summary>
 <br/>
 
-- [Data-Science-Intern-Assignment-Primetrade.ai-](https://github.com/hammad986/Data-Science-Intern-Assignment-Primetrade.ai-) — Data science internship assignment.
-- [skills-introduction-to-github](https://github.com/hammad986/skills-introduction-to-github) — GitHub Skills course exercise repo.
+- [Data-Science-Intern-Assignment-Primetrade.ai-](https://github.com/hammad986/Data-Science-Intern-Assignment-Primetrade.ai-) — Quantitative data science & order book market analysis.
 
 </details>
 
