@@ -292,7 +292,7 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 | 💻 **LeetCode** | [leetcode.com/u/hammad986](https://leetcode.com/u/hammad986/) | Algorithms, Data Structures & Python Problem Solving |
 | 💼 **LinkedIn** | [linkedin.com/in/hammad986](https://www.linkedin.com/in/hammad986/) | Professional Network, Engineering & AI Project Updates |
 | 🐙 **GitHub** | [github.com/hammad986](https://github.com/hammad986) | Production AI Systems, Agentic Workflows & Open Source |
-| 🌐 **Portfolio** | [hammad986.dpdns.org](https://hammad986.dpdns.org) | Live Interactive Demos, Verified Credentials & Experience |
+| 🌐 **Portfolio** | [hammad986.me](https://hammad986.me) | Live Interactive Demos, Verified Credentials & Experience |
 | 📸 **Instagram** | [@mud_.hammad](https://www.instagram.com/mud_.hammad/) | Personal & Developer Behind-the-Scenes |
 
 <br/>
