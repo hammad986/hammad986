@@ -25,7 +25,7 @@ Building practical AI systems across Machine Learning, Generative AI, RAG,<br/>a
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hammad986.dpdns.org-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://hammad986.dpdns.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hammad986.me-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://hammad986.me)
 [![Aetherion Labs](https://img.shields.io/badge/Aetherion_Labs-aetherionlabs.qzz.io-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://aetherionlabs.qzz.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hammad986-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad986/)
 [![Instagram](https://img.shields.io/badge/Instagram-mud_.hammad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mud_.hammad/)
